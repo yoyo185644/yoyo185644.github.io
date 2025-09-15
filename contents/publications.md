@@ -1,16 +1,18 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Yuanyuan Yao, Dimeng Li, Hailiang Jie, Lu Chen, Tianyi Li, Jie Chen, Jiaqi Wang, Feifei Li, Yunjun Gao. SimpleTS: An efficient and universal model selection framework for time series forecasting. PVLDB, 16(12): 3741-3753 (2023). [[Paper]](https://dl.acm.org/doi/pdf/10.14778/3611540.3611561)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Yuanyuan Yao, Hailiang Jie, Lu Chen, Tianyi Li, Yunjun Gao, Shiting Wen. TSec: An Efficient and Effective Framework for Time Series Classification. ICDE, 1394-1406 (2024) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597818) [[Code]](https://github.com/ZJU-DAILY/TSec)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Yuanyuan Yao, Shenjia Dai, Yilin Li, Lu Chen, Dimeng Li,  Yunjun Gao, Tianyi Li. A Demonstration of TENDS: Time Series Management System based on Model Selection. PVLDB, 17(12): 4357-4360 (2024). [[Paper]](https://www.vldb.org/pvldb/vol17/p4357-chen.pdf) [[Code]](https://github.com/yoyo185644/TENDS)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Yuanyuan Yao, Lu Chen, Ziquan Fang, Yunjun Gao, Christian S. Jensen, Tianyi Li. Camel: Efficient Compression of Floating-Point Time Series. Proc. ACM Manag. Data (SIGMOD), 2(6): 227:1-227:26 (2025). [[Paper]](https://dl.acm.org/doi/10.1145/3698802) [[Code]](https://github.com/yoyo185644/Camel)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Yuanyuan Yao, Yuan Dong, Lu Chen, Kun Kuang, Ziquan Fang, Cheng Long, Yunjun Gao, Tianyi Li. ARROW: Accelerator for Time Series Causal Discovery with Time Weaving. ICML (2025). [[Paper]](https://icml.cc/virtual/2025/poster/46084) [[Code]](https://github.com/XiangguanMu/arrow)
 
+
+#### Under review papers
+
+- Yuanyuan Yao, Yuhan Shi, Lu Chen, Ziquan Fang, Yunjun Gao, eong Hou U, YuShuai Li, Tianyi Li. MOON: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection. TKDE 2025, Minor Revision.
+
+- Guanshihan Du$^\#$, Yuanyuan Yao}$^\#$(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database. npj Computational Materials (Nature series, IF $>$ 12) 2025.

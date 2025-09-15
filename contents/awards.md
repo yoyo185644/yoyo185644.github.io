@@ -1,16 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding Graduate Student, 2023-2024.
 
-- National Scholarship for Graduate Student, 2024.
+- Outstanding Graduate Student, 2022-2023.
 
-- First-Prize Scholarship (CUMT), 2024.
+- First-class Scholarship, 2014-2015.
 
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- Outstanding Student 2015-2016.

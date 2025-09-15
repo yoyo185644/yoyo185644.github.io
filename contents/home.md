@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Yuanyuan Yao](https://github.com/yoyo185644/yuanyuan.github.io)](https://github.com/yoyo185644)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+I am a Ph.D. student at the Database and Big Data Analytics Lab, Zhejiang University, and I am expected to graduate in December 2025. My supervisor is Prof. Lu Chen. My general research interests are in data analytics and management, machine learning and much of my research concerns foundations for time series data, including time series forecasting, classification, anomaly detection, and time series casual discovery.
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yoyoyao@zju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Zhejiang University (Sup. Lu Chen)}. 2022.9-Now, PhD Student, Electronic Information (Artificial intelligence), \
+Nanyang  Technological University (Sup. Cheng Long)}, 2024.12-Now, Visiting student, Artificial Intelligence, \
+University of Chinese Academy of Sciences, 2018.9-2021.6, Graduate Student, College of computer science and Technology, \
+Nanjing Xiaozhuang College, 2014.9-2018.6, Undergraduate Student, Software engineering
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Time series data management
