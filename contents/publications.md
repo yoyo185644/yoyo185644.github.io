@@ -15,4 +15,4 @@
 
 - Yuanyuan Yao, Yuhan Shi, Lu Chen, Ziquan Fang, Yunjun Gao, eong Hou U, YuShuai Li, Tianyi Li. MOON: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection. TKDE 2025, Minor Revision.
 
-- Guanshihan Du$^\#$, Yuanyuan Yao}$^\#$(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database. npj Computational Materials (Nature series, IF $>$ 12) 2025.
+- Guanshihan Du#, Yuanyuan Yao#(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database. npj Computational Materials (Nature series, IF $>$ 12) 2025.
