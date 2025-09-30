@@ -10,9 +10,9 @@
 
 - Yuanyuan Yao, Yuan Dong, Lu Chen, Kun Kuang, Ziquan Fang, Cheng Long, Yunjun Gao, Tianyi Li. ARROW: Accelerator for Time Series Causal Discovery with Time Weaving. ICML (2025). [[Paper]](https://icml.cc/virtual/2025/poster/46084) [[Code]](https://github.com/XiangguanMu/arrow)
 
+- Yuanyuan Yao, Yuhan Shi, Lu Chen, Ziquan Fang, Yunjun Gao, eong Hou U, YuShuai Li, Tianyi Li. MOON: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection. TKDE 2025, Accept.
+
 
 #### Under review papers
-
-- Yuanyuan Yao, Yuhan Shi, Lu Chen, Ziquan Fang, Yunjun Gao, eong Hou U, YuShuai Li, Tianyi Li. MOON: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection. TKDE 2025, Minor Revision.
 
 - Guanshihan Du#, Yuanyuan Yao#(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database. npj Computational Materials (Nature series, IF $>$ 12) 2025.
