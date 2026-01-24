@@ -1,5 +1,8 @@
 #### Published
-- Yuanyuan Yao, Yuhan Shi, Lu Chen, Ziquan Fang, Yunjun Gao, eong Hou U, YuShuai Li, Tianyi Li. MOON: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection. TKDE 2025, Accept.
+
+- Guanshihan Du#, Yuanyuan Yao#(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database[J]. npj Computational Materials, 2026.
+
+- Yuanyuan Yao, Yuhan Shi, Lu Chen, Ziquan Fang, Yunjun Gao, eong Hou U, YuShuai Li, Tianyi Li. MOON: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection[J]. TKDE 2025, 38(1): 457-474. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11289201) [[Code]](https://github.com/Syh517/Moon/)
 
 - Yuanyuan Yao, Yuan Dong, Lu Chen, Kun Kuang, Ziquan Fang, Cheng Long, Yunjun Gao, Tianyi Li. ARROW: Accelerator for Time Series Causal Discovery with Time Weaving. ICML (2025). [[Paper]](https://icml.cc/virtual/2025/poster/46084) [[Code]](https://github.com/XiangguanMu/arrow)
 
@@ -12,8 +15,3 @@
 - Yuanyuan Yao, Dimeng Li, Hailiang Jie, Lu Chen, Tianyi Li, Jie Chen, Jiaqi Wang, Feifei Li, Yunjun Gao. SimpleTS: An efficient and universal model selection framework for time series forecasting. PVLDB, 16(12): 3741-3753 (2023). [[Paper]](https://dl.acm.org/doi/pdf/10.14778/3611540.3611561)
 
 
-
-
-#### Under review papers
-
-- Guanshihan Du#, Yuanyuan Yao#(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database. npj Computational Materials (Nature series, IF $>$ 12) 2025, minor review.
