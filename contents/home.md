@@ -2,7 +2,7 @@
 I am a Ph.D. student at the Database and Big Data Analytics Lab, Zhejiang University. My supervisor is Prof. Lu Chen. My general research interests are in data analytics and management, machine learning and much of my research concerns foundations for time series data, including time series forecasting, classification, anomaly detection, and time series casual discovery.
 #### Contact
 
-Email: yoyoyao@zju.edu.cn/yoyo185644@163.com
+Email: yy.yao@nus.edu.sg/yoyo185644@163.com
 
 #### Education
 - National University of Singapore (Sup. Anthony KH Tung). 2026.1-Now, Research Associate, Data mining
