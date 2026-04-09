@@ -5,6 +5,7 @@ I am a Ph.D. student at the Database and Big Data Analytics Lab, Zhejiang Univer
 Email: yoyoyao@zju.edu.cn/yoyo185644@163.com
 
 #### Education
+- National University of Singapore (Sup. Anthony KH Tung). 2026.1-Now, Research Associate, Data mining
 - Zhejiang University (Sup. Lu Chen). 2022.9-Now, PhD Student, Electronic Information (Artificial intelligence)
 - Nanyang  Technological University (Sup. Cheng Long), 2024.12-Now, Visiting student, Artificial Intelligence
 - University of Chinese Academy of Sciences, 2018.9-2021.6, Graduate Student, College of computer science and Technology

@@ -1,3 +1,7 @@
+- Yuan Dong, Yuanyuan Yao, Yangyang Wu, Lu Chen, Rong Zhu. ELENA: An Explainability-aided Online Query Optimization Framework. ICDE 2026. Accept.
+
+- Yuanyuan Yao, Yuhan Shi, Lu Chen, Mourad Khayati, Cheng Long, Tianyi Li. TS3D: A Multi-Modal Time Series Dataset for Distributed
+Database System Analysis. ICDE 2026. Accept. 
 
 - Guanshihan Du#, Yuanyuan Yao#(Equal Contributions), Linming Zhou, Yuhui Huang, Mohit Tanwani, He Tian, Yu Chen, Kaishi Song, Juan Li, Yunjun Gao, Sujit Das, Yongjun Wu, Lu Chen, Zijian Hong. PTST: A polar topological structure toolkit and database[J]. npj Computational Materials, 2026. [[Paper]](https://www.nature.com/articles/s41524-025-01951-5)
 
